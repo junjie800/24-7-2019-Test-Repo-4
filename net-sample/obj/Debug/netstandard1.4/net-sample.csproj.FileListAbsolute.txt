@@ -1,0 +1,9 @@
+C:\Users\L33539\Desktop\net-sample-master (1)\net-sample-master\net-sample\bin\Debug\netstandard1.4\net-sample.deps.json
+C:\Users\L33539\Desktop\net-sample-master (1)\net-sample-master\net-sample\bin\Debug\netstandard1.4\net-sample.dll
+C:\Users\L33539\Desktop\net-sample-master (1)\net-sample-master\net-sample\bin\Debug\netstandard1.4\net-sample.pdb
+C:\Users\L33539\Desktop\net-sample-master (1)\net-sample-master\net-sample\obj\Debug\netstandard1.4\net-sample.csprojAssemblyReference.cache
+C:\Users\L33539\Desktop\net-sample-master (1)\net-sample-master\net-sample\obj\Debug\netstandard1.4\net-sample.csproj.CoreCompileInputs.cache
+C:\Users\L33539\Desktop\net-sample-master (1)\net-sample-master\net-sample\obj\Debug\netstandard1.4\net-sample.AssemblyInfoInputs.cache
+C:\Users\L33539\Desktop\net-sample-master (1)\net-sample-master\net-sample\obj\Debug\netstandard1.4\net-sample.AssemblyInfo.cs
+C:\Users\L33539\Desktop\net-sample-master (1)\net-sample-master\net-sample\obj\Debug\netstandard1.4\net-sample.dll
+C:\Users\L33539\Desktop\net-sample-master (1)\net-sample-master\net-sample\obj\Debug\netstandard1.4\net-sample.pdb
